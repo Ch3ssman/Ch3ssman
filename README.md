@@ -1,10 +1,8 @@
 ## Hi there 👋
 # Ju-an Bautista
 
----
-
-
 ### I am Ju-an, a student at the University of Auckland studying a BSc in Computer Science conjoint with BCom in Business Analytics. 
+
 <!--
 **Ch3ssman/Ch3ssman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
